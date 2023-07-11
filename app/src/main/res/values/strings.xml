@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TRANSLATER</string>
+
+    <string name="translated">No translation yet</string>
+    <string-array name="Languages">
+        <item>ENGLISH</item>
+        <item>TURKISH</item>
+        <item>GERMAN</item>
+        <item>FRENCH</item>
+        <item>ARABIC</item>
+        <item>AFRIKAANS</item>
+        <item>ALBANIAN</item>
+        <item>AFRIKAANS</item>
+        <item>BELARUSIAN</item>
+        <item>BULGARIAN</item>
+        <item>CHINESE</item>
+        <item>DANISH</item>
+        <item>DUTCH</item>
+        <item>ITALIAN</item>
+        <item>GREEK</item>
+    </string-array>
+
+</resources>

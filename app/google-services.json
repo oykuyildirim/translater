@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297698491419",
+    "project_id": "fir-machine-839b6",
+    "storage_bucket": "fir-machine-839b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297698491419:android:969c9d7ff7074ead0c0cbe",
+        "android_client_info": {
+          "package_name": "com.kotlinegitim.firebase_ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297698491419-jubg5cm7gcghtq0bv9kk10h2edab970n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUMAcPomzOq2Zt51WdKpjKdXSyWLoN9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297698491419-jubg5cm7gcghtq0bv9kk10h2edab970n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
