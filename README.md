@@ -1,6 +1,7 @@
 # translater
 Bu android uygulaması ile bir dilden başka dile çeviri yapılabilmektedir. Yapılan çeviriyi kullanıcı isterse  kopyalayabilir,kopyalandığında toast massage ile bilgilendirilir ve son görseldeki gibi kopyalanan yazıyı yapıştırabilir. Uygulamadaki dropdown menude gözüken dilleri desteklemektedir. Firebase ML Kit
  kullanılarak yapıldı.
+ ### Uygulamada Kullanılan Özellikler:
   <br>Name | Version |</br>
    Kotlin | 1.7.20 | 
   <br>ML Kit Translate | 17.0.1 |</br>
